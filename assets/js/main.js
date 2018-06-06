@@ -1,0 +1,1 @@
+!function(e){"use strict";e(document).ready(function(){var n={button:e(".nav__lang"),langSelector:e(".lang__selector"),animSpeed:300};e(document).on("click",function(){e(n.langSelector).hide(n.animSpeed)}),e(n.button).on("click",function(){event.stopPropagation(),e(n.langSelector).toggle(n.animSpeed)})})}(jQuery);
