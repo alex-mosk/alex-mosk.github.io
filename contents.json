@@ -5,7 +5,7 @@
 		"internetNumber": "+38093-306-45-03",
 		"secondNumber": "+38096-924-46-13",
 		"callTime": "10.00 - 20.00",
-		"email": "babakfly@gmail.com",
+		"email": "help@babakfly.com",
 		"facebookLink": "https://www.facebook.com/babakfly",
 		"insta": {
 			"link": "https://www.instagram.com/babakfly/",
@@ -151,6 +151,9 @@
 							"question": "Як мені дізнатись де і коли плануються польоти?",
 							"answer": "Підпишіться на нашу спільноту у facebook, instagram, або напишіть нам, щоб ми додали вас до чату, і ви завжди знатимете, коли плануються польоти. Можна переглядати стрічку групи без підписки, якщо дата запланованих польотів вам підходить – телефонуйте нам."
 						}, {
+							"question": "Місце проведення польотів та способи дібратись до старту?",
+							"answer": "Київ - місце проведення польотів знаходиться на виїзді із мікрорайону Троещина - 1.5км у сторону села Погреби. Орієнтир, а також місце збору та підбору пасажирів - Бороди Бар (Погребський шлях 66). Громадським транспортом від станції м.Лісова - 325 або 320 маршрутка до Бороди Бар-у. Від Бороди Бару надаємо трансфер до місця польотів. Бакота - виїзд на старт переважно власним транспортом. Польоти, в залежності від погодних умов, відбуваються з Хмельницької або Чернівкцької області. За потребою організовуємо переправу по затоці (150грн в обидві сторони). Більш детально про можливості дібратись до бакоти запитуйте за нашими номерами тел."
+						}, {
 							"question": "Хто може літати? Вік? Вага?",
 							"answer": " Будь-хто у доброму здоров’ї і позитивному настрої, віком від 18 років, важить від 35-40 до 110 кг. Діти до 18 років, що важать не менше 35-40 кг і ростом не менше 140см - у присутності батьків."
 						}, {
@@ -177,43 +180,14 @@
 							"question": "Який одяг потрібен?",
 							"answer": " Головне - взуття. Взуття має надійно захищати ногу та бути максимально зручним (кросівки або боти). Шльопанці, сланці, взуття на шпильках та їм подібне не підходять. Бажано мати при собі одяг, що повністю закриває ноги та руки. Для захисту очей також рекомендуємо мати при собі окуляри."
 						}, {
-							"question": "Як подарувати політ?",
-							"answer": "Придбати подарунковий сертифікат."
-						}, {
-							"question": "Більше інформації про подарунковий сертифікат",
-							"answer": "Для замовлення сертифікату оберіть відповідну опцію на нашому сайті. Термін дії – 1 рік (365 діб) з моменту отримання. Людина, з подарованим сертифікатом, повинна мати його з собою і перед польотом віддати пілоту. Сертифікат не підлягає поверненню чи перепродажу, але ви можете передарувати його іншій особі"
-						}, {
-							"question": "Чи може політ тривати довше, ніж стандартний час?",
-							"answer": [{
-								"title": "Так може, але за наступних умов:",
-								"list": [
-									"Є сприятливі погодні умови для виконання подовженого польоту",
-									"Відсутня черга і немає потреби йти на посадку, щоб виконати політ з наступним пасажиром, що вже очікує",
-									"Пасажир готовий оплатити додатковий час. +200грн за кожні додаткові 10хв.",
-									"Деколи пілот сам має бажання політати довше, або з певних причин не може вчасно приземлитися. За такий додатковий час польоту нічого доплачувати НЕ потрібно!"
-								]
-							}]
-						}, {
-							"question": "Політ тривав менше 7хв. Чому? Як ви це компенсуєте?",
-							"answer": [{
-								"title": "Нажаль деколи так стається, причиною може бути:",
-								"list": [
-									"Несприятливий погодний стан саме в час виконання польоту",
-									"Технічні проблеми з затяжкою",
-									"Пілот перервав політ з огляду на безпеку"
-								]
-							}, {
-								"title": "Тоді ми пропонуємо:",
-								"list": [
-									"Повторний політ в цей день",
-									"Повторний політ в інший день, якщо немає признаків покращення стану атмосфери",
-									"Повторний політ в інший день, в іншій запропонованій локації, якщо вам підходить",
-									"Додати недовикористаний час вашому другу/подрузі, що стартуватимуть після вас"
-								]
-							}]
+							"question": "Подарунковий сертифікат",
+							"answer": "Ви можете подарувати політ рідним чи друзям. Вартість сертифікату = вартості польоту. Для замовлення сертифікату оберіть відповідну опцію на нашому сайті. Термін дії – 1 рік (365 діб) з моменту отримання. Людина із подарованим сертифікатом повинна мати його з собою і перед польотом віддати пілоту. Сертифікат не підлягає поверненню чи перепродажу, але ви можете передарувати його іншій особі."
 						}, {
 							"question": "Скільки по часу займає інструктаж та чи потрібні якісь спеціальні навички?",
 							"answer": "Підготовичй інструктаж займає 2-5хв. Політ не потребує спеціальних навичок так, як за вас все робить досвідчений пілот-інструктор."
+						}, {
+							"question": "Інформація для корпоративних клієнтів та великих груп, реклама.",
+							"answer": "Ми також організовуємо масові польоти по домовленності. Можливі поїздки у найкращі місця для польотів в Україні. Можливе розміщення реклами на наших крилах або на наших веб-ресурсах. Більш детальну інформацію запитуйте за тел."
 						}]
 					},
 
@@ -534,6 +508,9 @@
 							"question": "Как узнать где и когда планируются полёты?",
 							"answer": "Подпишитесь на наше сообщество в facebook, instagram, или напишите нам, чтобы мы добавили вас в чат, и вы всегда будете знать время проведения ближайших полетов. Можно просматривать ленту группы без подписки, если дата запланированных полетов вам подходит - звоните нам."
 						}, {
+							"question": "Место проведения полётов и способ добраться до старта?",
+							"answer": "Киев - место проведения полетов находится на выезде из микрорайона Троещина - 1.5км в сторону села Погребы. Ориентир, а также место сбора и подбора пассажиров - Бороды Бар (Погребской путь 66). Общественным транспортом от станции м.Лесная - 325 или 320 маршрутка до Бороды Бар-а. От Бороды Бара предоставляем трансфер непосредственно до места полетов. Бакота - выезд на старт преимущественно собственным транспортом.Полеты, в зависимости от погодных условий, происходят с Хмельницкой или Черновицкой области.При необходимости организуем переправу по заливу(150 грн в обе стороны).Более подробно о возможностях добраться к Бакоте спрашивайте по нашим номерам тел."
+						}, {
 							"question": "Кто может летать? Возраст? Вес?",
 							"answer": "Любой человек без проблем со здоровьем и в позитивном настроении, в возрасте от 18 лет, вес от 35-40 до 110 кг. Дети до 18 лет, весом не менее 35-40 кг и ростом не менее 140 см - в присутствии родителей."
 						}, {
@@ -560,43 +537,14 @@
 							"question": "Какая нужна одежда?",
 							"answer": "Главное - обувь. Обувь должна надежно защищать ногу и быть максимально удобной (кроссовки или боты). Шлепанцы, сланцы, обувь на шпильках и тому подобное не подходят. Желательно иметь при себе одежду, полностью закрывающую руки и ноги. Для защиты глаз также рекомендуем иметь при себе очки."
 						}, {
-							"question": "Как подарить полёт?",
-							"answer": "Купить подарочный сертификат"
-						}, {
-							"question": "Больше информации про подарочный сертификат.",
-							"answer": "Для заказа сертификата выберите соответствующую опцию на нашем сайте. Срок действия - 1 год (365 дней) с момента покупки. Человек, с подаренным сертификатом, должен иметь его с собой и перед полетом отдать пилоту. Сертификат не подлежит возврату или перепродаже, но вы можете передарить его другому человеку."
-						}, {
-							"question": "Может ли полет длиться дольше стандартного времени?",
-							"answer": [{
-								"title": "Да может, но при следующих условиях:",
-								"list": [
-									"Есть благоприятные погодные условия для более длительного полета",
-									"Отсутствует очередь и нет нужды идти на посадку, чтобы выполнить полет со следующим пассажиром, который уже ожидает в очереди",
-									"Пассажир готов оплатить дополнительное время (+ 200грн за каждые дополнительные 10 мин)",
-									"Иногда пилот сам желает полетать дольше, или по определенным причинам не может вовремя приземлиться. За это дополнительное время полета ничего доплачивать не нужно!"
-								]
-							}]
-						}, {
-							"question": "Полёт длился меньше минимального времени. Почему? Как вы это компенсируете?",
-							"answer": [{
-								"title": "К сожалению иногда так случается, причиной может быть:",
-								"list": [
-									"Неблагоприятное состояние погоды именно во время выполнения полета",
-									"Технические проблемы с затяжкой",
-									"Пилот прервал полет по соображениям безопасности"
-								]
-							}, {
-								"title": "Тогда мы предлагаем:",
-								"list": [
-									"Повторный полет в этот день",
-									"Повторный полет в другой день, если нет признаков улучшения состояния атмосферы",
-									"Повторный полет в другой день, в другой предложенной локации, если вам подходит",
-									"Добавить недоиспользованное время вашему другу / подруге, который(ая) будет стартовать после вас"
-								]
-							}]
+							"question": "Подарочный сертификат",
+							"answer": "Вы можете подарить полет родным или друзьям. Стоимость сертификата = стоимости полета. Для заказа сертификата выберите соответствующую опцию на нашем сайте. Срок действия - 1 год (365 дней) с момента получения. Человек с подаренным сертификатом должен иметь его с собой и перед полетом отдать пилоту. Сертификат не подлежит возврату или перепродажи, но вы можете передарить его другому человеку. "
 						}, {
 							"question": "Сколько длится инструктаж, нужна ли специальная подготовка ?",
 							"answer": "Подготовительный инструктаж занимает 2-5 минут. Полёт не требует спец подготовки так, как за вас всё делает опытный инструктор."
+						}, {
+							"question": "Информация для корпоративных клиентов и больших групп. Реклама.",
+							"answer": "Мы также организовываем массовые полеты по договоренности. Возможны поездки в лучшие места для полетов в Украине. Возможно размещение рекламы на наших крыльях или на наших веб-ресурсах. Более подробную информацию спрашивайте по тел. "
 						}]
 					},
 
@@ -917,6 +865,9 @@
 							"question": "How to find out where and when flights are planned?",
 							"answer": "Subscribe to our pages on facebook, instagram, or text to us so that we add you to the chat and you will always know the time of the next flights. You can follow our updates without a subscription, if the date of scheduled flights is good for you - call us."
 						}, {
+							"question": "The place of flight and how to get to the start?",
+							"answer": "Kiev - the place of the flights is located on the exit from the neighborhood Troyeshchyna - 1.5km to the side of the pogreby village. The place where our team will meet you is called  Borody - Bar (Pogrebsky Path 66). Public transport departs from the metro station Lisova. From Lisova take bus #325 or 320 and ask your driver to stop by the Borody bar (also you can google this spot by itself or just call us and we will explain you all details). From Borody Bar, we will take you to the main spot of flights. Bakota - departure to start mainly by own transport.Flights, depending on weather conditions are taking place from Khmelnitsky or Chernivtsi region.If necessary, we organize a ferry across the bay(150 uah in both directions).For more information about the possibilities to get to the spot, please call us and ask for details."
+						}, {
 							"question": "Who can fly? Age? Weight ?",
 							"answer": "Anyone without problems with health and in a positive mood, at the age of 18+, weight from 35-40 to 110 kg. Children under 18 years of age with weighing at least 35-40 kg and a height of at least 140 cm - in the presence of parents."
 						}, {
@@ -943,43 +894,14 @@
 							"question": "What kind of clothes do I need?",
 							"answer": "The main thing is shoes. Shoes should reliably protect the foot and be as comfortable as possible (sneakers or bots). Flip - flops, slates, shoes with stilettos and so on can not be accepted. It is advised to have clothes that completely cover your hands and feet. To protect your eyes, we also recommend take glasses with you."
 						}, {
-							"question": "How to present a flight?",
-							"answer": "Buy a gift certificate"
-						}, {
-							"question": "More information about the gift certificate.",
-							"answer": "To order a certificate, select the appropriate option on our website. Validity period is 1 year (365 days) from the date of purchase. A person, with a given certificate, must have it with him and give it to the pilot before the flight. The certificate is not refundable or resale, but you can transfer it to another person."
-						}, {
-							"question": "May the flight last longer than the standard time?",
-							"answer": [{
-								"title": "Yes, but under the following conditions:",
-								"list": [
-									"There are favorable weather conditions for a longer flight",
-									"There is no queue and there is no need to go to land to fly with the next passenger who is already waiting in line",
-									"The passenger is ready to pay extra time (+ 200 UAH for every additional 10 minutes)",
-									"Sometimes the pilot himself wants to fly longer, or for certain reasons can not land in time. For this extra flight time, you do not need to pay extra!"
-								]
-							}]
-						}, {
-							"question": "The flight lasted less than the minimum time. Why? How do you compensate it?",
-							"answer": [{
-								"title": "Unfortunately sometimes it happens, the reason may be:",
-								"list": [
-									"The unfavorable state of the atmosphere during the flight",
-									"Technical problems",
-									"The pilot interrupted the flight for security reasons"
-								]
-							}, {
-								"title": "In that cases we offer:",
-								"list": [
-									"An additional (free) flight on this day",
-									"A re-flight the next day, if there are no chance for improvement of the atmosphere",
-									"To repeat a flight on another day, in another proposed location",
-									"To add an undrawn time to your friend whoo will fly after you"
-								]
-							}]
+							"question": "Gift Certificate",
+							"answer": "You can present a flight to your neighbours or friends. Cost of the certificate the same as the flight cost. To order a certificate, select the appropriate option on our site. Validity period is 1 year (365 days) from the moment of purchase. A person with a gift certificate must have it with him and give it to the pilot before the flight. The certificate can not be returned or resaled, but you can transfer it to another person."
 						}, {
 							"question": "How long does the training last, do I need special training?",
 							"answer": "Preparatory briefing takes 2-5 minutes. Flight does not require special training, as for you everything is done by an experienced instructor."
+						}, {
+							"question": "Information for corporate clients and large groups. Advertising.",
+							"answer": "We also arrange big groups flights by  appointment. it is possible to arrange trips to the best flying sites in Ukraine. It is possible to print your advertisement on our wings or on our web resources. For more information, please call us."
 						}]
 					},
 
