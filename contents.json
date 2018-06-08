@@ -1,0 +1,1229 @@
+{
+
+	"contactInfo": {
+
+		"internetNumber": "+38093-306-45-03",
+		"secondNumber": "+38096-924-46-13",
+		"callTime": "10.00 - 20.00",
+		"email": "babakfly@gmail.com",
+		"facebookLink": "https://www.facebook.com/babakfly",
+		"insta": {
+			"link": "https://www.instagram.com/babakfly/",
+			"photos": [{
+				"caption": "",
+				"imageName": "thumb-insta-1.jpg"
+			}, {
+				"caption": "",
+				"imageName": "thumb-insta-2.jpg"
+			}, {
+				"caption": "",
+				"imageName": "thumb-insta-3.jpg"
+			}]
+		}
+
+	},
+
+	"templates": {
+
+		"main": {
+
+			"ua": {
+				"lang": "ua",
+				"head": {
+					"title": "Польоти на параплані | Київ та Бакота | Babakfly параглайдинг",
+					"keywords": "параглайдинг київ, параглайдинг бакота",
+					"description": "Польоти на параплані в Києві та Бакоті. Нові враження, емоції, відчуття з babakfly. Параглайдинг Київ - Бакота"
+				},
+				"mainSection": {
+					"mainTitle": "babakfly.com",
+					"choosePlaceTitle": "Оберіть місце:",
+					"kyivName": "Київ",
+					"bakotaName": "Бакота"
+				}
+			},
+
+			"ru": {
+				"lang": "ru",
+				"head": {
+					"title": "Полёты на параплане | Киев и Бакота | Babakfly параглайдинг",
+					"keywords": "параглайдинг киев, параглайдинг бакота",
+					"description": "Полёты на параплене в Киеве и Бакоте. Новые впечатления, эмоции, ощущения с babakfly. Параглайдинг Киев - Бакота"
+				},
+				"mainSection": {
+					"mainTitle": "babakfly.com",
+					"choosePlaceTitle": "Выберите место:",
+					"kyivName": "Киев",
+					"bakotaName": "Бакота"
+				}
+			},
+
+			"en": {
+				"lang": "en",
+				"head": {
+					"title": "Paraglyding | Kiev and Bakota | Babakfly",
+					"keywords": "paraglyding kiev, paraglyding bakota",
+					"description": "Paragliding in Kyiv and Bakota. New impressions, emotions, feelings with babakfly"
+				},
+				"mainSection": {
+					"mainTitle": "babakfly.com",
+					"choosePlaceTitle": "Choose the place:",
+					"kyivName": "Kyiv",
+					"bakotaName": "Bakota"
+				}
+			}
+
+		},
+
+		"landing": {
+
+			"ua": {
+
+				"common": {
+
+					"header": {
+						"menu": {
+							"main": {
+								"name": "Головна",
+								"link": "#main"
+							},
+							"about": {
+								"name": "Про нас",
+								"link": "#about"
+							},
+							"details": {
+								"name": "Деталі",
+								"link": "#details"
+							},
+							"faq": {
+								"name": "FAQ",
+								"link": "#faq"
+							},
+							"contact": {
+								"name": "Контакти",
+								"link": "#contact"
+							}
+						}
+					},
+
+					"about": {
+						"title": "Про нас",
+						"babakIs": {
+							"title": ["BABAKFLY", "це"],
+							"list": {
+								"love": {
+									"type": "icon",
+									"val": "icon-heart",
+									"name": "любов до своєї справи"
+								},
+								"cert": {
+									"type": "icon",
+									"val": "icon-certificate",
+									"name": "сертифіковані пілоти"
+								},
+								"years": {
+									"type": "number",
+									"val": "3",
+									"name": "роки успішної роботи"
+								},
+								"clients": {
+									"type": "number",
+									"val": "+700",
+									"name": "годин у небі"
+								},
+								"flights": {
+									"type": "number",
+									"val": "+1000",
+									"name": "неймовірних польотів"
+								}
+							}
+						}
+					},
+
+					"faq": {
+						"title": "FAQ",
+						"info": [{
+							"question": "Як я можу політати та що для цього потрібно?",
+							"answer": "Польоти залежать від сприятливих погодних умов і ми не можемо точно повідомити дати наперед. Отже, ми радимо слідкувати за анонсами на наших сторінках у facebook та instagram. Також, при виборі опції ''Забронювати'' найближчі дати польотів підсвічені та доступні для бронювання. Після оголошення дати польоту - напишіть нам у соц мережах або зателефонуйте за номерами 0933064503 та 0969244613 і ми надамо вам детальну інформацію про майбутні польоти."
+						}, {
+							"question": "Наскільки це безпечно?",
+							"answer": "Парапланеризм є видом екстремальної діяльності із високим рівнем пасивної безпеки. Польоти проводяться тільки під належні погодні умови, гості забезпечуються шоломом та необхідним спорядженням для забезпечення захисту. Усі інструктори мають відповідну ліцензію на проведення тандем-польотів та посвідчення пілота, що визнаються у більшості країнах світу. Кожен пілот літає із запасним парашутом, що розрахований на вагу пілота та пасажира разом. Але важливо пам’ятати, що парапланеризм залишається екстремальним видом спорту та передбачає певний ризик."
+						}, {
+							"question": "Як мені дізнатись де і коли плануються польоти?",
+							"answer": "Підпишіться на нашу спільноту у facebook, instagram, або напишіть нам, щоб ми додали вас до чату, і ви завжди знатимете, коли плануються польоти. Можна переглядати стрічку групи без підписки, якщо дата запланованих польотів вам підходить – телефонуйте нам."
+						}, {
+							"question": "Хто може літати? Вік? Вага?",
+							"answer": " Будь-хто у доброму здоров’ї і позитивному настрої, віком від 18 років, важить від 35-40 до 110 кг. Діти до 18 років, що важать не менше 35-40 кг і ростом не менше 140см - у присутності батьків."
+						}, {
+							"question": "Хто не зможе виконати політ?",
+							"answer": [{
+								"title": "Виконати політ не зможуть люди, що:",
+								"list": [
+									"Важать менше 35кг, або більше 110кг",
+									"Мали нещодавно переломи кінцівок, хребта, травми голови, важкі хвороби",
+									"З психічними чи неврологічними розладами",
+									"Перебувають у стані депресії чи інших негативних станах",
+									"Вагітні жінки після 3-го місяця вагітності"
+								]
+							}, {
+								"title": "До польотів не допустять:",
+								"list": [
+									"Людей в стані алкогольного/наркотичного сп’яніння",
+									"Якщо морально-психологічний стан особи викликає сумніви",
+									"Порушників загально етичних норм моралі і поведінки",
+									"Людей у поганому і негативному настрої"
+								]
+							}]
+						}, {
+							"question": "Який одяг потрібен?",
+							"answer": " Головне - взуття. Взуття має надійно захищати ногу та бути максимально зручним (кросівки або боти). Шльопанці, сланці, взуття на шпильках та їм подібне не підходять. Бажано мати при собі одяг, що повністю закриває ноги та руки. Для захисту очей також рекомендуємо мати при собі окуляри."
+						}, {
+							"question": "Як подарувати політ?",
+							"answer": "Придбати подарунковий сертифікат."
+						}, {
+							"question": "Більше інформації про подарунковий сертифікат",
+							"answer": "Для замовлення сертифікату оберіть відповідну опцію на нашому сайті. Термін дії – 1 рік (365 діб) з моменту отримання. Людина, з подарованим сертифікатом, повинна мати його з собою і перед польотом віддати пілоту. Сертифікат не підлягає поверненню чи перепродажу, але ви можете передарувати його іншій особі"
+						}, {
+							"question": "Чи може політ тривати довше, ніж стандартний час?",
+							"answer": [{
+								"title": "Так може, але за наступних умов:",
+								"list": [
+									"Є сприятливі погодні умови для виконання подовженого польоту",
+									"Відсутня черга і немає потреби йти на посадку, щоб виконати політ з наступним пасажиром, що вже очікує",
+									"Пасажир готовий оплатити додатковий час. +200грн за кожні додаткові 10хв.",
+									"Деколи пілот сам має бажання політати довше, або з певних причин не може вчасно приземлитися. За такий додатковий час польоту нічого доплачувати НЕ потрібно!"
+								]
+							}]
+						}, {
+							"question": "Політ тривав менше 7хв. Чому? Як ви це компенсуєте?",
+							"answer": [{
+								"title": "Нажаль деколи так стається, причиною може бути:",
+								"list": [
+									"Несприятливий погодний стан саме в час виконання польоту",
+									"Технічні проблеми з затяжкою",
+									"Пілот перервав політ з огляду на безпеку"
+								]
+							}, {
+								"title": "Тоді ми пропонуємо:",
+								"list": [
+									"Повторний політ в цей день",
+									"Повторний політ в інший день, якщо немає признаків покращення стану атмосфери",
+									"Повторний політ в інший день, в іншій запропонованій локації, якщо вам підходить",
+									"Додати недовикористаний час вашому другу/подрузі, що стартуватимуть після вас"
+								]
+							}]
+						}, {
+							"question": "Скільки по часу займає інструктаж та чи потрібні якісь спеціальні навички?",
+							"answer": "Підготовичй інструктаж займає 2-5хв. Політ не потребує спеціальних навичок так, як за вас все робить досвідчений пілот-інструктор."
+						}]
+					},
+
+					"contact": {
+						"title": "Контакти",
+						"callMessage": "Вам зателефонувати?"
+					}
+
+				},
+
+				"different": {
+
+					"kyiv": {
+
+						"head": {
+							"title": "Польоти на параплані в Києві | Babakfly параглайдинг Київ",
+							"description": "Нові враження, емоції та відчуття з babakfly. Польоти над Києвом на параплані в тандемі. Параглайдинг Київ"
+						},
+
+						"intro": {
+							"title": "польоти над києвом",
+							"subtitle": "на параплані",
+							"buttons": {
+								"book": "Забронювати",
+								"learn": "Дізнатись більше >"
+							}
+						},
+
+						"about": {
+
+							"team": {
+								"title": "Наша команда",
+								"members": [{
+									"name": "Бабак",
+									"caption": "Пілот-ентузіаст",
+									"imageName": "babak.min.png"
+								}, {
+									"name": "Костя",
+									"caption": "Пілот open-класу",
+									"imageName": "kostya.min.png"
+								}, {
+									"name": "Коля",
+									"caption": "Пілот-ветеран",
+									"imageName": "kolya.min.png"
+								}, {
+									"name": "Єлена",
+									"caption": "Тест-пілот",
+									"imageName": "lena.min.png"
+								}, {
+									"name": "Женя",
+									"caption": "Координатор",
+									"imageName": "zheka.min.png"
+								}, {
+									"name": "Олексій",
+									"caption": "Пілот-супертяж",
+									"imageName": "lesha.min.png"
+								}]
+							}
+						},
+
+						"details": {
+
+							"title": "Деталі",
+							"priceList": [{
+								"icon": "icon-arrows-v",
+								"name": {
+									"big": "400+",
+									"small": "м висоти"
+								}
+							}, {
+								"icon": "icon-watch_later",
+								"name": {
+									"big": "10-15",
+									"small": "хв польоту"
+								}
+							}, {
+								"icon": "icon-money",
+								"name": {
+									"big": "1300",
+									"small": "грн"
+								}
+							}, {
+								"icon": "icon-heart",
+								"name": {
+									"small": "Страхування пасажирів"
+								}
+							}, {
+								"icon": "icon-video-camera",
+								"name": {
+									"small": "Відео у подарунок"
+								}
+							}, {
+								"icon": "icon-map-marker",
+								"name": {
+									"small": "р-н Троещина (БородиБар)"
+								}
+							}],
+							"buttons": {
+								"book": "Забронювати",
+								"cert": {
+									"icon": "icon-gift",
+									"name": "Сертифікат"
+								}
+							}
+
+						}
+
+					},
+
+					"bakota": {
+
+						"head": {
+							"title": "Польоти на параплані в Бакоті | Babakfly параглайдинг Бакота",
+							"description": "Нові враження, емоції та відчуття з babakfly. Польоти над Бакотою на параплані в тандемі. Параглайдинг Бакота"
+						},
+
+						"intro": {
+							"title": "польоти в бакоті",
+							"subtitle": "на параплані",
+							"buttons": {
+								"book": "Забронювати",
+								"learn": "Дізнатися більше >"
+							}
+						},
+
+						"about": {
+
+							"team": {
+								"title": "Наша команда",
+								"members": [{
+									"name": "Бабак",
+									"caption": "Головний пілот",
+									"imageName": "babak.min.png"
+								}, {
+									"name": "Skyline",
+									"caption": "партнери",
+									"imageName": "skyline.min.png"
+								}]
+							}
+						},
+
+						"details": {
+
+							"title": "Деталі",
+							"priceList": [{
+								"icon": "icon-arrows-v",
+								"name": {
+									"big": "250-500+",
+									"small": "м висоти"
+								}
+							}, {
+								"icon": "icon-watch_later",
+								"name": {
+									"big": "15",
+									"small": "хв польоту"
+								}
+							}, {
+								"icon": "icon-money",
+								"name": {
+									"big": "800",
+									"small": "грн"
+								}
+							}, {
+								"icon": "icon-video-camera",
+								"name": {
+									"small": "Відео у подарунок"
+								}
+							}, {
+								"icon": "icon-map-marker",
+								"name": {
+									"small": "Бакота"
+								}
+							}],
+							"buttons": {
+								"book": "Забронювати",
+								"cert": {
+									"icon": "icon-gift",
+									"name": "Сертифікат"
+								}
+							}
+
+						}
+
+					}
+
+				},
+
+				"feedback": {
+
+					"placeholders": {
+
+						"name": "Ваше імʼя",
+						"number": "Ваш номер телефону",
+						"date": "Дата",
+						"submit": "Підтвердити"
+
+					},
+
+					"popup": {
+
+						"book": {
+							"title": "Забронювати",
+							"notice": {
+								"stress": "Увага!",
+								"main": "У зв`язку із непередбачуванiстю погодних умов день польоту може бути змінено."
+							}
+						},
+
+						"gift": {
+							"title": "Подарунковий сертифікат",
+							"desc": "Придбати подарунковий сертифікат. Ціна = вартості польоту"
+						},
+
+						"call": {
+							"title": "Вам зателефонувати?",
+							"desc": "Замовити зворотній дзвінок"
+						},
+
+						"success": {
+							"title": "Дякуємо!",
+							"text": {
+								"stress": "Запит успішно надіслано",
+								"paragraphs": [
+									"Ми звʼяжемося з вами найближчим часом.",
+									"Або ви можете звʼязатися з нами будь-яким зручним для вас способом."
+								]
+							}
+						},
+
+						"fail": {
+							"title": "Помилка",
+							"text": {
+								"stress": "Під час запиту виникла помилка.",
+								"paragraphs": [
+									"Будь-ласка, звʼяжіться з нами будь-яким зручним для вас способом."
+								]
+							}
+						}
+
+					}
+
+				}
+
+			},
+
+			"ru": {
+
+				"common": {
+
+					"header": {
+						"menu": {
+							"main": {
+								"name": "Главная",
+								"link": "#main"
+							},
+							"about": {
+								"name": "Про нас",
+								"link": "#about"
+							},
+							"details": {
+								"name": "Детали",
+								"link": "#details"
+							},
+							"faq": {
+								"name": "FAQ",
+								"link": "#faq"
+							},
+							"contact": {
+								"name": "Контакты",
+								"link": "#contact"
+							}
+						}
+					},
+
+					"about": {
+						"title": "Про нас",
+						"babakIs": {
+							"title": ["BABAKFLY", "это"],
+							"list": {
+								"love": {
+									"type": "icon",
+									"val": "icon-heart",
+									"name": "любовь к своему делу"
+								},
+								"cert": {
+									"type": "icon",
+									"val": "icon-certificate",
+									"name": "сертифицированные пилоты"
+								},
+								"years": {
+									"type": "number",
+									"val": "3",
+									"name": "года успешной работы"
+								},
+								"clients": {
+									"type": "number",
+									"val": "+700",
+									"name": "часов в небе"
+								},
+								"flights": {
+									"type": "number",
+									"val": "+1000",
+									"name": "невероятных полётов"
+								}
+							}
+						}
+					},
+
+					"faq": {
+						"title": "FAQ",
+						"info": [{
+							"question": "Как я могу полетать и что для этого нужно?",
+							"answer": "Полеты зависят от благоприятных погодных условий и мы не можем точно сообщить конкретные даты заранее. Для того, чтобы полетать, советуем следить за анонсами на наших страничках в facebook и instagram. Также, при выборе опции '' Забронировать '' ближайшие даты полетов будут подсвечены и доступны для бронирования. После объявления даты полета - напишите нам в социальных сетях или позвоните по номерам 0933064503 и 0969244613 и мы предоставим вам подробную информацию о предстоящих полетах."
+						}, {
+							"question": "Насколько это безопасно?",
+							"answer": "Парапланеризм является видом экстремальной деятельности с наивысшим уровнем пассивной безопасности. Полеты проводятся только при надлежащих погодных условиях, гости обеспечиваются шлемом и необходимым снаряжением. Все инструктора имеют соответствующую лицензию на проведение тандем-полетов и удостоверение пилота, которые признаются в большинстве стран мира. Каждый пилот летает с запасным парашютом, который рассчитан на вес пилота и пассажира. Но важно помнить, что парапланеризм остается экстремальным видом спорта и предполагает определенный риск для жизни."
+						}, {
+							"question": "Как узнать где и когда планируются полёты?",
+							"answer": "Подпишитесь на наше сообщество в facebook, instagram, или напишите нам, чтобы мы добавили вас в чат, и вы всегда будете знать время проведения ближайших полетов. Можно просматривать ленту группы без подписки, если дата запланированных полетов вам подходит - звоните нам."
+						}, {
+							"question": "Кто может летать? Возраст? Вес?",
+							"answer": "Любой человек без проблем со здоровьем и в позитивном настроении, в возрасте от 18 лет, вес от 35-40 до 110 кг. Дети до 18 лет, весом не менее 35-40 кг и ростом не менее 140 см - в присутствии родителей."
+						}, {
+							"question": "Кто не сможет совершить полёт?",
+							"answer": [{
+								"title": "Летать не смогут люди, которые",
+								"list": [
+									"Весом меньше 35кг, или больше 110кг",
+									"Имели недавно переломы конечностей, позвоночника, травмы головы, тяжелые болезни",
+									"С психическими или неврологическими расстройствами",
+									"В состоянии депрессии или других негативных состояниях",
+									"Беременные женщины после 3-го месяца беременности"
+								]
+							}, {
+								"title": "К полетам не допустят:",
+								"list": [
+									"Людей в состоянии алкогольного / наркотического опьянения",
+									"Если морально-психологическое состояние человека вызывает сомнения",
+									"Нарушителей общих этических норм морали и поведения",
+									"Людей в плохом и негативном настроении"
+								]
+							}]
+						}, {
+							"question": "Какая нужна одежда?",
+							"answer": "Главное - обувь. Обувь должна надежно защищать ногу и быть максимально удобной (кроссовки или боты). Шлепанцы, сланцы, обувь на шпильках и тому подобное не подходят. Желательно иметь при себе одежду, полностью закрывающую руки и ноги. Для защиты глаз также рекомендуем иметь при себе очки."
+						}, {
+							"question": "Как подарить полёт?",
+							"answer": "Купить подарочный сертификат"
+						}, {
+							"question": "Больше информации про подарочный сертификат.",
+							"answer": "Для заказа сертификата выберите соответствующую опцию на нашем сайте. Срок действия - 1 год (365 дней) с момента покупки. Человек, с подаренным сертификатом, должен иметь его с собой и перед полетом отдать пилоту. Сертификат не подлежит возврату или перепродаже, но вы можете передарить его другому человеку."
+						}, {
+							"question": "Может ли полет длиться дольше стандартного времени?",
+							"answer": [{
+								"title": "Да может, но при следующих условиях:",
+								"list": [
+									"Есть благоприятные погодные условия для более длительного полета",
+									"Отсутствует очередь и нет нужды идти на посадку, чтобы выполнить полет со следующим пассажиром, который уже ожидает в очереди",
+									"Пассажир готов оплатить дополнительное время (+ 200грн за каждые дополнительные 10 мин)",
+									"Иногда пилот сам желает полетать дольше, или по определенным причинам не может вовремя приземлиться. За это дополнительное время полета ничего доплачивать не нужно!"
+								]
+							}]
+						}, {
+							"question": "Полёт длился меньше минимального времени. Почему? Как вы это компенсируете?",
+							"answer": [{
+								"title": "К сожалению иногда так случается, причиной может быть:",
+								"list": [
+									"Неблагоприятное состояние погоды именно во время выполнения полета",
+									"Технические проблемы с затяжкой",
+									"Пилот прервал полет по соображениям безопасности"
+								]
+							}, {
+								"title": "Тогда мы предлагаем:",
+								"list": [
+									"Повторный полет в этот день",
+									"Повторный полет в другой день, если нет признаков улучшения состояния атмосферы",
+									"Повторный полет в другой день, в другой предложенной локации, если вам подходит",
+									"Добавить недоиспользованное время вашему другу / подруге, который(ая) будет стартовать после вас"
+								]
+							}]
+						}, {
+							"question": "Сколько длится инструктаж, нужна ли специальная подготовка ?",
+							"answer": "Подготовительный инструктаж занимает 2-5 минут. Полёт не требует спец подготовки так, как за вас всё делает опытный инструктор."
+						}]
+					},
+
+					"contact": {
+						"title": "Контакты",
+						"callMessage": "Вам перезвонить?"
+					}
+
+				},
+
+				"different": {
+
+					"kyiv": {
+
+						"head": {
+							"title": "Полёты на параплане в Киеве | Babakfly параглайдинг Киев",
+							"description": "Новые впечатления, эмоции, ощущения с babakfly. Полёты над Киевом на параплене в тандеме. Параглайдинг Киев"
+						},
+
+						"intro": {
+							"title": "Полёты над Киевом",
+							"subtitle": "На параплане",
+							"buttons": {
+								"book": "Забронировать",
+								"learn": "Узнать больше >"
+							}
+						},
+
+						"about": {
+
+							"team": {
+								"title": "Наша команда",
+								"members": [{
+									"name": "Бабак",
+									"caption": "Пилот-энтузиаст",
+									"imageName": "babak.min.png"
+								}, {
+									"name": "Костя",
+									"caption": "Пилот open-класса",
+									"imageName": "kostya.min.png"
+								}, {
+									"name": "Коля",
+									"caption": "Ветеран парапланеризма",
+									"imageName": "kolya.min.png"
+								}, {
+									"name": "Лена",
+									"caption": "Тест-пилот",
+									"imageName": "lena.min.png"
+								}, {
+									"name": "Женя",
+									"caption": "Координатор",
+									"imageName": "zheka.min.png"
+								}, {
+									"name": "Лёша",
+									"caption": "Пилот-супертяж",
+									"imageName": "lesha.min.png"
+								}]
+							}
+						},
+
+						"details": {
+
+							"title": "Детали",
+							"priceList": [{
+								"icon": "icon-arrows-v",
+								"name": {
+									"big": "400+",
+									"small": "м высоты"
+								}
+							}, {
+								"icon": "icon-watch_later",
+								"name": {
+									"big": "10-15",
+									"small": "мин полёта"
+								}
+							}, {
+								"icon": "icon-money",
+								"name": {
+									"big": "1300",
+									"small": "грн"
+								}
+							}, {
+								"icon": "icon-heart",
+								"name": {
+									"small": "Страховка"
+								}
+							}, {
+								"icon": "icon-video-camera",
+								"name": {
+									"small": "Видео в подарок"
+								}
+							}, {
+								"icon": "icon-map-marker",
+								"name": {
+									"small": "р-н Троещина"
+								}
+							}],
+							"buttons": {
+								"book": "Забронировать",
+								"cert": {
+									"icon": "icon-gift",
+									"name": "Сертификат"
+								}
+							}
+
+						}
+
+					},
+
+					"bakota": {
+
+						"head": {
+							"title": "Полёты на параплане в Бакоте | Babakfly параглайдинг Бакота",
+							"description": "Новые впечатления, эмоции, ощущения с babakfly. Полёты над Бакотой на параплене в тандеме. Параглайдинг Бакота"
+						},
+
+						"intro": {
+							"title": "полеты в Бакоте",
+							"subtitle": "на параплане",
+							"buttons": {
+								"book": "Забронировать",
+								"learn": "Узнать больше >"
+							}
+						},
+
+						"about": {
+
+							"team": {
+								"title": "Наша команда",
+								"members": [{
+									"name": "Бабак",
+									"caption": "Пилот-энтузиаст",
+									"imageName": "babak.min.png"
+								}, {
+									"name": "Skyline",
+									"caption": "партнеры",
+									"imageName": "skyline.min.png"
+								}]
+							}
+						},
+
+						"details": {
+
+							"title": "Детали",
+							"priceList": [{
+								"icon": "icon-arrows-v",
+								"name": {
+									"big": "250-500+",
+									"small": "м высоты"
+								}
+							}, {
+								"icon": "icon-watch_later",
+								"name": {
+									"big": "15",
+									"small": "мин полета"
+								}
+							}, {
+								"icon": "icon-money",
+								"name": {
+									"big": "800",
+									"small": "грн"
+								}
+							}, {
+								"icon": "icon-video-camera",
+								"name": {
+									"small": "Видео в подарок"
+								}
+							}, {
+								"icon": "icon-map-marker",
+								"name": {
+									"small": "Бакота"
+								}
+							}],
+							"buttons": {
+								"book": "Забронировать",
+								"cert": {
+									"icon": "icon-gift",
+									"name": "Сертификат"
+								}
+							}
+
+						}
+
+					}
+
+				},
+
+				"feedback": {
+
+					"placeholders": {
+
+						"name": "Ваше имя",
+						"number": "Ваш номер телефона",
+						"date": "Дата",
+						"submit": "Подтвердить"
+
+					},
+
+					"popup": {
+
+						"book": {
+							"title": "Забронировать",
+							"notice": {
+								"stress": "Внимание!",
+								"main": "В связи с непредвиденными изменениями погодных условий полёт может быть перенесен"
+							}
+						},
+
+						"gift": {
+							"title": "Подарочный сертификат",
+							"desc": "Купить подарочный сертификат. Цена = стоимости полета"
+						},
+
+						"call": {
+							"title": "Вам перезвонить?",
+							"desc": "Заказать обратный звонок"
+						},
+
+						"success": {
+							"title": "Спасибо!",
+							"text": {
+								"stress": "Запрос успешно отправлен",
+								"paragraphs": [
+									"Мы свяжемся с вами в ближайшее время",
+									"Вы также можете связаться с нами любым удобным для вас способом."
+								]
+							}
+						},
+
+						"fail": {
+							"title": "Ошибка",
+							"text": {
+								"stress": "Во время запроса возникла ошибка.",
+								"paragraphs": [
+									"пожалуйста, свяжитесь с нами любым удобным для вас способом"
+								]
+							}
+						}
+
+					}
+
+				}
+
+			},
+
+			"en": {
+
+				"common": {
+
+					"header": {
+						"menu": {
+							"main": {
+								"name": "Home",
+								"link": "#main"
+							},
+							"about": {
+								"name": "About us",
+								"link": "#about"
+							},
+							"details": {
+								"name": "Details",
+								"link": "#details"
+							},
+							"faq": {
+								"name": "FAQ",
+								"link": "#faq"
+							},
+							"contact": {
+								"name": "Contact",
+								"link": "#contact"
+							}
+						}
+					},
+
+					"about": {
+						"title": "About us",
+						"babakIs": {
+							"title": ["BABAKFLY", "IS"],
+							"list": {
+								"love": {
+									"type": "icon",
+									"val": "icon-heart",
+									"name": "passion for what we do"
+								},
+								"cert": {
+									"type": "icon",
+									"val": "icon-certificate",
+									"name": "certified pilots"
+								},
+								"years": {
+									"type": "number",
+									"val": "3",
+									"name": "years of successful work"
+								},
+								"clients": {
+									"type": "number",
+									"val": "+700",
+									"name": "hours in the sky"
+								},
+								"flights": {
+									"type": "number",
+									"val": "+1000",
+									"name": "awesome flights"
+								}
+							}
+						}
+					},
+
+					"faq": {
+						"title": "FAQ",
+						"info": [{
+							"question": "How can I fly and what is needed for this?",
+							"answer": "Flights depend on favorable weather conditions and we can not guarantee certain flight dates. In order to fly, we advise you to follow announcements on our pages on facebook and instagram. Also, with the option ''Book now'' announced flight dates will be highlighted and available for booking. After announcing the date of the flight - write to us on social networks or call 0933064503, 0969244613 and we will provide you all details on upcoming flights."
+						}, {
+							"question": "How safe is it ?",
+							"answer": "Paragliding is a kind of extreme activity with the highest level of passive safety. Flights are possible only with proper weather conditions, guests are provided with a helmet and necessary equipment. All pilots have the appropriate license and pilot certification, which are recognized in most countries of the world. Each pilot flies with a reserve parachute, which is designed taking into account the weight of the pilot and passenger together. But it is important to remember that paragliding remains an extreme sport and includes a risk for life."
+						}, {
+							"question": "How to find out where and when flights are planned?",
+							"answer": "Subscribe to our pages on facebook, instagram, or text to us so that we add you to the chat and you will always know the time of the next flights. You can follow our updates without a subscription, if the date of scheduled flights is good for you - call us."
+						}, {
+							"question": "Who can fly? Age? Weight ?",
+							"answer": "Anyone without problems with health and in a positive mood, at the age of 18+, weight from 35-40 to 110 kg. Children under 18 years of age with weighing at least 35-40 kg and a height of at least 140 cm - in the presence of parents."
+						}, {
+							"question": "Who is unable to fly?",
+							"answer": [{
+								"title": "Flights are prohibited for people with:",
+								"list": [
+									"Weight less than 35-40kg or more than 110kg",
+									"Had recent fractures of the limbs, spine, head trauma, severe illness",
+									"With mental or neurological disorders",
+									"In depression or other negative conditions",
+									"Pregnant women after the 3rd month of pregnancy"
+								]
+							}, {
+								"title": "The following people will not be allowed to fly:",
+								"list": [
+									"In a state of alcoholic / drug intoxication",
+									"If the moral and psychological state of a person is in doubt",
+									"Violators of common ethical norms of morality and behavior",
+									"People in a bad and negative mood"
+								]
+							}]
+						}, {
+							"question": "What kind of clothes do I need?",
+							"answer": "The main thing is shoes. Shoes should reliably protect the foot and be as comfortable as possible (sneakers or bots). Flip - flops, slates, shoes with stilettos and so on can not be accepted. It is advised to have clothes that completely cover your hands and feet. To protect your eyes, we also recommend take glasses with you."
+						}, {
+							"question": "How to present a flight?",
+							"answer": "Buy a gift certificate"
+						}, {
+							"question": "More information about the gift certificate.",
+							"answer": "To order a certificate, select the appropriate option on our website. Validity period is 1 year (365 days) from the date of purchase. A person, with a given certificate, must have it with him and give it to the pilot before the flight. The certificate is not refundable or resale, but you can transfer it to another person."
+						}, {
+							"question": "May the flight last longer than the standard time?",
+							"answer": [{
+								"title": "Yes, but under the following conditions:",
+								"list": [
+									"There are favorable weather conditions for a longer flight",
+									"There is no queue and there is no need to go to land to fly with the next passenger who is already waiting in line",
+									"The passenger is ready to pay extra time (+ 200 UAH for every additional 10 minutes)",
+									"Sometimes the pilot himself wants to fly longer, or for certain reasons can not land in time. For this extra flight time, you do not need to pay extra!"
+								]
+							}]
+						}, {
+							"question": "The flight lasted less than the minimum time. Why? How do you compensate it?",
+							"answer": [{
+								"title": "Unfortunately sometimes it happens, the reason may be:",
+								"list": [
+									"The unfavorable state of the atmosphere during the flight",
+									"Technical problems",
+									"The pilot interrupted the flight for security reasons"
+								]
+							}, {
+								"title": "In that cases we offer:",
+								"list": [
+									"An additional (free) flight on this day",
+									"A re-flight the next day, if there are no chance for improvement of the atmosphere",
+									"To repeat a flight on another day, in another proposed location",
+									"To add an undrawn time to your friend whoo will fly after you"
+								]
+							}]
+						}, {
+							"question": "How long does the training last, do I need special training?",
+							"answer": "Preparatory briefing takes 2-5 minutes. Flight does not require special training, as for you everything is done by an experienced instructor."
+						}]
+					},
+
+					"contact": {
+						"title": "Contacts",
+						"callMessage": "Call me back"
+					}
+
+				},
+
+				"different": {
+
+					"kyiv": {
+
+						"head": {
+							"title": "Paraglyding Kiev | Babakfly",
+							"description": "New impressions, emotions, feelings with babakfly. Paraglyding Kiev."
+						},
+
+						"intro": {
+							"title": "Flights above Kyiv",
+							"subtitle": "tandem-paragliding",
+							"buttons": {
+								"book": "Book ",
+								"learn": "Learn More >"
+							}
+						},
+
+						"about": {
+
+							"team": {
+								"title": "Our team",
+								"members": [{
+									"name": "Babak",
+									"caption": "1-st pilot",
+									"imageName": "babak.min.png"
+								}, {
+									"name": "Constantin",
+									"caption": "Open-class pilot",
+									"imageName": "kostya.min.png"
+								}, {
+									"name": "Mykola",
+									"caption": "Veteran-paraglider",
+									"imageName": "kolya.min.png"
+								}, {
+									"name": "Helen",
+									"caption": "Test-pilot",
+									"imageName": "lena.min.png"
+								}, {
+									"name": "Eugene",
+									"caption": "Flight coordinator",
+									"imageName": "zheka.min.png"
+								}, {
+									"name": "Alex",
+									"caption": "Heavyweight pilot",
+									"imageName": "lesha.min.png"
+								}]
+							}
+						},
+
+						"details": {
+
+							"title": "Details",
+							"priceList": [{
+								"icon": "icon-arrows-v",
+								"name": {
+									"big": "400+",
+									"small": "meters "
+								}
+							}, {
+								"icon": "icon-watch_later",
+								"name": {
+									"big": "10-15",
+									"small": "min of flight"
+								}
+							}, {
+								"icon": "icon-money",
+								"name": {
+									"big": "1300",
+									"small": "UAH"
+								}
+							}, {
+								"icon": "icon-heart",
+								"name": {
+									"small": "Insurance"
+								}
+							}, {
+								"icon": "icon-video-camera",
+								"name": {
+									"small": "Video for free"
+								}
+							}, {
+								"icon": "icon-map-marker",
+								"name": {
+									"small": "Troyeschina district"
+								}
+							}],
+							"buttons": {
+								"book": "Book a flight",
+								"cert": {
+									"icon": "icon-gift",
+									"name": "Certificate"
+								}
+							}
+
+						}
+
+					},
+
+					"bakota": {
+
+						"head": {
+							"title": "Paraglyding Bakota | Babakfly",
+							"description": "New impressions, emotions, feelings with babakfly. Paraglyding Bakota."
+						},
+
+						"intro": {
+							"title": "flights in Bakota",
+							"subtitle": "tandem-paragliding",
+							"buttons": {
+								"book": "Book",
+								"learn": "Learn More >"
+							}
+						},
+
+						"about": {
+
+							"team": {
+								"title": "Our team",
+								"members": [{
+									"name": "Babak",
+									"caption": "1-st pilot",
+									"imageName": "babak.min.png"
+								}, {
+									"name": "Skyline",
+									"caption": "partners",
+									"imageName": "skyline.min.png"
+								}]
+							}
+						},
+
+						"details": {
+
+							"title": "Details",
+							"priceList": [{
+								"icon": "icon-arrows-v",
+								"name": {
+									"big": "250-500+",
+									"small": "meters"
+								}
+							}, {
+								"icon": "icon-watch_later",
+								"name": {
+									"big": "15",
+									"small": "min of flight"
+								}
+							}, {
+								"icon": "icon-money",
+								"name": {
+									"big": "800",
+									"small": "UAH"
+								}
+							}, {
+								"icon": "icon-video-camera",
+								"name": {
+									"small": "Video for free"
+								}
+							}, {
+								"icon": "icon-map-marker",
+								"name": {
+									"small": "Bakota"
+								}
+							}],
+							"buttons": {
+								"book": "Book a flight",
+								"cert": {
+									"icon": "icon-gift",
+									"name": "Certificate"
+								}
+							}
+
+						}
+
+					}
+
+				},
+
+				"feedback": {
+
+					"placeholders": {
+
+						"name": "Your name",
+						"number": "Your phone number",
+						"date": "Date",
+						"submit": "submit"
+
+					},
+
+					"popup": {
+
+						"book": {
+							"title": "Book a flight",
+							"notice": {
+								"stress": "Attention!",
+								"main": "Due to the unpredictable weather conditions, the day of the flight may be delayed."
+							}
+						},
+
+						"gift": {
+							"title": "Gift certificate",
+							"desc": "Buy a certificate. Price = price of flight"
+						},
+
+						"call": {
+							"title": "Call me back",
+							"desc": "Ask to call me back"
+						},
+
+						"success": {
+							"title": "Thank you!",
+							"text": {
+								"stress": "Request accepted",
+								"paragraphs": [
+									"We will contact you as soon as possible",
+									"or you can contact us in any way which is convinient for you"
+								]
+							}
+						},
+
+						"fail": {
+							"title": "Error",
+							"text": {
+								"stress": "An error occurred while requesting",
+								"paragraphs": [
+									"Please contact us in any way convenient for you."
+								]
+							}
+						}
+
+					}
+
+				}
+
+			}
+		}
+	}
+}
