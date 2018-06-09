@@ -393,6 +393,7 @@
 
 						"book": {
 							"title": "Забронювати",
+							"dateNotice": "Зверніть увагу, що польоти плануються на виділені у календарі дати. Проте, ви можете запропонувати будь-який інший день.",
 							"notice": {
 								"stress": "Увага!",
 								"main": "У зв`язку із непередбачуванiстю погодних умов день польоту може бути змінено."
@@ -753,6 +754,7 @@
 
 						"book": {
 							"title": "Забронировать",
+							"dateNotice": "Обратите внимание, что полёты планируются на выделеные в календаре даты. Однако, вы можете предложить любой другой день.",
 							"notice": {
 								"stress": "Внимание!",
 								"main": "В связи с непредвиденными изменениями погодных условий полёт может быть перенесен"
@@ -1113,6 +1115,7 @@
 
 						"book": {
 							"title": "Book a flight",
+							"dateNotice": "Note that flights are scheduled for the dates hightled in the calendar. However, you can offer another day.",
 							"notice": {
 								"stress": "Attention!",
 								"main": "Due to the unpredictable weather conditions, the day of the flight may be delayed."
