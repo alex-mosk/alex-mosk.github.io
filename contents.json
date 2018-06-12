@@ -6,6 +6,7 @@
 		"secondNumber": "+38096-924-46-13",
 		"callTime": "10.00 - 20.00",
 		"email": "help@babakfly.com",
+		"annonceChatLink": "viber://public?id=G0my0V7MxkdgIhMJTHBQTC0UAI8CI3en",
 		"facebookLink": "https://www.facebook.com/babakfly",
 		"insta": {
 			"link": "https://www.instagram.com/babakfly/",
@@ -393,10 +394,13 @@
 
 						"book": {
 							"title": "Забронювати",
-							"dateNotice": "Зверніть увагу, що польоти плануються на виділені у календарі дати. Проте, ви можете запропонувати будь-який інший день.",
 							"notice": {
 								"stress": "Увага!",
 								"main": "У зв`язку із непередбачуванiстю погодних умов день польоту може бути змінено."
+							},
+							"dateNotice": {
+								"message": "Зверніть увагу, що у найближчі дні польоти не плануються. Анонси польотів: ",
+								"annonceName": "Viber група"
 							}
 						},
 
@@ -758,6 +762,10 @@
 							"notice": {
 								"stress": "Внимание!",
 								"main": "В связи с непредвиденными изменениями погодных условий полёт может быть перенесен"
+							},
+							"dateNotice": {
+								"message": "Обратите внимание, что в ближайшие дни полёты не планируются. Анонсы полётов: ",
+								"annonceName": "Viber группа"
 							}
 						},
 
@@ -1115,10 +1123,13 @@
 
 						"book": {
 							"title": "Book a flight",
-							"dateNotice": "Note that flights are scheduled for the dates hightled in the calendar. However, you can offer another day.",
 							"notice": {
 								"stress": "Attention!",
 								"main": "Due to the unpredictable weather conditions, the day of the flight may be delayed."
+							},
+							"dateNotice": {
+								"message": "Note that there are no scheduled flights in the coming days. Flights announcements: ",
+								"annonceName": "Viber group"
 							}
 						},
 
