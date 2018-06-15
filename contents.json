@@ -6,7 +6,10 @@
 		"secondNumber": "+38096-924-46-13",
 		"callTime": "10.00 - 20.00",
 		"email": "help@babakfly.com",
-		"annonceChatLink": "viber://public?id=G0my0V7MxkdgIhMJTHBQTC0UAI8CI3en",
+		"annonceChatLink": {
+			"kyiv": "https://t.me/joinchat/GFmQPREaeLmAYy5nEYpqow",
+			"bakota": "https://t.me/joinchat/GFmQPVNvTFtxOVFtTvFLgw"
+		},
 		"facebookLink": "https://www.facebook.com/babakfly",
 		"insta": {
 			"link": "https://www.instagram.com/babakfly/",
@@ -400,7 +403,7 @@
 							},
 							"dateNotice": {
 								"message": "Зверніть увагу, що у найближчі дні польоти не плануються. Анонси польотів: ",
-								"annonceName": "Viber група"
+								"annonceName": "Telegram група"
 							}
 						},
 
@@ -765,7 +768,7 @@
 							},
 							"dateNotice": {
 								"message": "Обратите внимание, что в ближайшие дни полёты не планируются. Анонсы полётов: ",
-								"annonceName": "Viber группа"
+								"annonceName": "Telegram группа"
 							}
 						},
 
@@ -1129,7 +1132,7 @@
 							},
 							"dateNotice": {
 								"message": "Note that there are no scheduled flights in the coming days. Flights announcements: ",
-								"annonceName": "Viber group"
+								"annonceName": "Telegram group"
 							}
 						},
 
