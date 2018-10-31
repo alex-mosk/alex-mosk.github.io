@@ -354,13 +354,8 @@
 							}, {
 								"icon": "icon-money",
 								"name": {
-									"big": "1000",
+									"big": "800",
 									"small": "грн"
-								}
-							}, {
-								"icon": "icon-heart",
-								"name": {
-									"small": "Страхування пасажирів"
 								}
 							}, {
 								"icon": "icon-video-camera",
@@ -723,13 +718,8 @@
 							}, {
 								"icon": "icon-money",
 								"name": {
-									"big": "1000",
+									"big": "800",
 									"small": "грн"
-								}
-							}, {
-								"icon": "icon-heart",
-								"name": {
-									"small": "Страховка"
 								}
 							}, {
 								"icon": "icon-video-camera",
@@ -1093,13 +1083,8 @@
 							}, {
 								"icon": "icon-money",
 								"name": {
-									"big": "1000",
+									"big": "800",
 									"small": "UAH"
-								}
-							}, {
-								"icon": "icon-heart",
-								"name": {
-									"small": "Insurance"
 								}
 							}, {
 								"icon": "icon-video-camera",
